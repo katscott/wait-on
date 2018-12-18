@@ -6,6 +6,10 @@
   "bin": {
     "wait-on": "bin/wait-on"
   },
+  "pkg": {
+    "scripts": "",
+    "assets": "bin/usage.txt"
+  },
   "author": "Jeff Barczewski <info@codewinds.com>",
   "repository": {
     "type": "git",
